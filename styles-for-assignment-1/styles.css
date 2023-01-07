@@ -204,5 +204,36 @@
     line-height: 40px;
     
 }
+.subscribe{
+    position: absolute;
+    color: white;
+    top: 2250px;
+    left: 1000px;
+    line-height: 20px;
+}
+.last{
+    width: 123px;
+    height: 29px;
+    font-weight: 600;
+    font-size: 25px;
+}
+.email-input{
+    width: 325px;
+    height: 64px;
+    border-radius: 5px;
+
+}
+.third-button{
+    width: 170.11px;
+    height: 64px;
+}
+.info-email{
+    display:block;
+}
+.third-button span{
+    color:#F15B22;
+    width: 100px;
+    height: 100px;
+}
 
 
