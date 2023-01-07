@@ -1,5 +1,6 @@
 *{
-    margin: 2px;
+    margin: 0px;
+    font-family: 'Work Sans';
 }
 /* Header styles */
 .header{
@@ -51,7 +52,115 @@
     border-radius: 5px;
 }   
  /*Body styles start.Failures of ever year  */
+.failures{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 900px;
+    top: 830px;
+    line-height: 20px;
+}
+.failure-title{
+    color: #151414;
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height:47px ;
+}
+.failure-description{
+    position: absolute;
+    width: 349px;
+    color: #444343;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 16px;
+}
 .failure-list{
     position: absolute;
-    left:1200px;
+    width: 349px;
+    height: 162px;
+    top: 200px;
+    font-size: 21px;
+    font-weight: 400;
+    color: #444343;
+    padding-top: 15px;
 }
+.woman{
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 569px;
+    height: 720px;
+    left: 250px;
+}
+.plans-container{
+    display: flex;
+    position: absolute;
+    width: 1141px;
+    height: 300px;
+    left: 270px;
+    top: 1500px;
+    gap: 150px;
+}
+.plan-title{
+    position: absolute;
+    font-weight: 700;
+    font-size: 40px;
+    color:black;
+    left: 700px;
+    top: 1400px;
+    width: 200px;
+    height: 35px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #181818;
+    display: block; 
+    
+}
+.skill-description{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 20px;   
+}
+.btn-secondary{
+    position: absolute;
+    background: white;
+    color:#F15B22 ;
+    width: 135px;
+    height: 64px;
+    top: 130px;
+}
+.gradiant{
+    background-image: linear-gradient(90deg,rgba(241, 91, 34, 0), rgba(241,91,34, 1)),url(../images/watch.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1100px;
+    height: 240px;
+    top: 1760px;
+    left: 250px;
+    border-radius: 5px;
+    background-position: 0px;
+}
+.inside-text{
+    margin: 30px 514px 59px 45px;
+    display: block;
+    width: 459px;
+    height: 182px;
+}
+.gradiant-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+    width: 459px;
+    height: 10px;
+}
+
+
