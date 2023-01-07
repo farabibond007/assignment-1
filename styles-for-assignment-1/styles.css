@@ -1,0 +1,57 @@
+*{
+    margin: 2px;
+}
+/* Header styles */
+.header{
+    background-image: url(../images/banner/banner2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.banner{
+    padding-top: 216px;
+    padding-bottom: 365px;
+    display:block;
+}
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 900px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    bottom: 500px;
+}
+.banner-description{
+    position: absolute;
+    left: 930px;
+    bottom: 400px; 
+    height: 78px;
+    width: 494px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+}
+.btn-primary{
+    position: absolute;
+    left: 1296px;
+    width: 130px;
+    height: 40px;
+    bottom: 345px;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+    font-weight: 600;
+    background: #fd6e0a;
+    border: none;
+    border-radius: 5px;
+}   
+ /*Body styles start.Failures of ever year  */
+.failure-list{
+    position: absolute;
+    left:1200px;
+}
