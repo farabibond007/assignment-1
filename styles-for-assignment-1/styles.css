@@ -162,5 +162,47 @@
     width: 459px;
     height: 10px;
 }
+/* Footer style starting */
+.footer-color{
+    background-color: black;
+    position:absolute;
+    width: 1590px;
+    height: 577px;
+    top: 2100px;
+}
+.footer-content{
+    color: white;
+    position: absolute;
+    top: 2300px;
+}
+.footer-icons{
+    display: flex;
+    position: absolute;
+    top: 2470px;
+    gap: 10px;
+    left: 245px;
+
+}
+.footer-title{
+    position: absolute;
+    width: 148px;
+    height: 53px;
+    font-weight: 700;
+    font-size: 45px;
+    left: 250px;
+    bottom: 150px;
+}
+.footer-description{
+    width: 485px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 250px;
+    color: #FFFFFF;
+    line-height: 20px;
+}
+.contact-detail .footer-description{
+    line-height: 40px;
+    
+}
 
 
