@@ -235,5 +235,13 @@
     width: 100px;
     height: 100px;
 }
+.updates{
+    position: absolute;
+    top: 2800px;
+    background-image: url(../images/gradient1.png);
+    left: 350px;
+    width: 900px;
+    display: block;
+}
 
 
